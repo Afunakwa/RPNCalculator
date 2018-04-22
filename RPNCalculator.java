@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 
 /**
 * A RPN calculator class that can compute the binary operations of
