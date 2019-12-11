@@ -1,3 +1,2 @@
 # RPNCalculator
-A simple Java RPN calculator class. It considers a valid RPN expression string
-one for which every number and operator symbol are separated by spaces
+A simple Java RPN calculator class. It considers a valid RPN expression a string for which every number and operator symbol is separated by a space
